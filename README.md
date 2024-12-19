@@ -1,5 +1,6 @@
 Welcome to the Super Saiyan Matching Game!
 - This is for the unit 8.6 Mermory Game Challenge for the Software Engineer bootcamp at Stony Brook University
+- Deployment can be found here: https://cgsanchez223.github.io/newgame/
 -------------------------------------------------------------
 
 - In unit 8 with learn about DOM (Document Object Model) Manipulation. It is where we combine HTML and JavaScript to listen for user interactions on the page.
